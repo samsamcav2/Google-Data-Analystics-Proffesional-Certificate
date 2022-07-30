@@ -1,4 +1,4 @@
-# Google-Data-Analystics-Proffesional-Certificate
+# Google Data Analystics Proffesional Certificate
 The Google Data Analytics Professional Certificate is a 6-month online course that covers the fundamentals of data analytics. 
 The course covers topics such as R, spreadsheets, SQL and Tableau.
 Further details of teh course can be found in the below.
